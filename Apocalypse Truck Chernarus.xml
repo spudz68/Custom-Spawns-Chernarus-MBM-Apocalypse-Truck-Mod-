@@ -58,6 +58,7 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
+	    </type>
 <!--end of spawnabletypes-->	
 		
 <!--MBM truck eventspawns-->
